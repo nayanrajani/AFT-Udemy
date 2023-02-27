@@ -92,3 +92,12 @@ When account provisioning or updating is complete, the AFT workflow continues. I
 - ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/57224583/221490687-e7fb31a7-7a13-46c4-bce7-db14f6d1fca1.png)
 
 ### Security & Control
+
+- [Security](https://docs.aws.amazon.com/controltower/latest/userguide/security.html)
+- [Controls](https://docs.aws.amazon.com/controltower/latest/userguide/controls.html)
+
+- ![MicrosoftTeams-image](https://user-images.githubusercontent.com/57224583/221501212-d6196c08-2cc3-49be-952e-1f084c2dad24.png)
+- ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/57224583/221501349-14e677c7-9211-4aee-a01e-9671333c4bd3.png)
+- ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/57224583/221501400-6a5b5122-4f0b-4fa7-95a9-8e40d573e3c4.png)
+- ![MicrosoftTeams-image](https://user-images.githubusercontent.com/57224583/221501581-885c7191-92fd-48cd-bc4a-6cc2912b584e.png)
+- ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/57224583/221501638-1150f6da-71fc-4873-99a1-33d0cfba2fb7.png)
