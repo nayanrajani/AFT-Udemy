@@ -48,17 +48,17 @@ When account provisioning or updating is complete, the AFT workflow continues. I
 
 ## Section 3: AWS Landing Zone and best practices overview
 
-- Organizations Structure
+### Organizations Structure
 
-  - ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/57224583/221487359-10251216-30d5-48a0-beda-f78541d90903.png)
+- ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/57224583/221487359-10251216-30d5-48a0-beda-f78541d90903.png)
 
-  - ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/57224583/221487537-035bdbbb-7e6b-4ed5-b704-61c872163f0e.png)
+- ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/57224583/221487537-035bdbbb-7e6b-4ed5-b704-61c872163f0e.png)
 
-  - ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/57224583/221488417-d4bc6903-7d31-48ff-82f8-24d73aecbf9c.png)
+- ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/57224583/221488417-d4bc6903-7d31-48ff-82f8-24d73aecbf9c.png)
 
-  - ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/57224583/221488459-e9210322-21f6-440e-8d49-478ab34feec1.png)
+- ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/57224583/221488459-e9210322-21f6-440e-8d49-478ab34feec1.png)
 
-- Master Account
+### Master Account
 
 - it is also called Organization master account, which manages the organization.
 
@@ -81,3 +81,7 @@ When account provisioning or updating is complete, the AFT workflow continues. I
 - Use Complex Passwords with 2FA
 - limit Access
 - Monitor Activity
+- ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/57224583/221490617-dc4374e2-5665-406e-bb5c-939bb4734239.png)
+- ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/57224583/221490687-e7fb31a7-7a13-46c4-bce7-db14f6d1fca1.png)
+
+### Security & Control
