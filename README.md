@@ -16,7 +16,7 @@ When account provisioning or updating is complete, the AFT workflow continues. I
     - Note
         - AFT does not affect workflow performance in AWS Control Tower. For example, if you provision an account through Account Factory, or through AFT, the same backend workflow occurs, without any timing differences. AFT enables automation, therefore the time required for provisioning may be less noticeable.
 
-## Requirements
+### Requirements
 
 - Experience
 
