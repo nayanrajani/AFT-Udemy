@@ -47,4 +47,5 @@ When account provisioning or updating is complete, the AFT workflow continues. I
 - Then the define management using the elastic management permission system, the flexibility to allow engineers to simplify their development process and the business compliance because the elasticity of building management properties, all of this is the landing zone
 
 - History
+
   -
