@@ -46,6 +46,9 @@ When account provisioning or updating is complete, the AFT workflow continues. I
 - The security governance is due to centralize in place for monitoring and logging.
 - Then the define management using the elastic management permission system, the flexibility to allow engineers to simplify their development process and the business compliance because the elasticity of building management properties, all of this is the landing zone
 
-- History
+## Section 3: AWS Landing Zone and best practices overview
 
-  -
+- Organizations Structure
+- ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/57224583/221487359-10251216-30d5-48a0-beda-f78541d90903.png)
+
+- ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/57224583/221487537-035bdbbb-7e6b-4ed5-b704-61c872163f0e.png)
