@@ -59,3 +59,25 @@ When account provisioning or updating is complete, the AFT workflow continues. I
   - ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/57224583/221488459-e9210322-21f6-440e-8d49-478ab34feec1.png)
 
 - Master Account
+
+- it is also called Organization master account, which manages the organization.
+
+  - manages OU Structure
+  - create aws accounts
+  - invite other existing accounts
+  - remove accounts
+  - apply policies
+
+- Master account should only be used for:
+
+  - stackset
+  - org details
+  - scp policies
+  - sso configuration
+  - biling data
+
+- Do not apply SCP to the root of ypur organization
+- use the Private group-mail address.
+- Use Complex Passwords with 2FA
+- limit Access
+- Monitor Activity
