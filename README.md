@@ -101,3 +101,10 @@ When account provisioning or updating is complete, the AFT workflow continues. I
 - ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/57224583/221501400-6a5b5122-4f0b-4fa7-95a9-8e40d573e3c4.png)
 - ![MicrosoftTeams-image](https://user-images.githubusercontent.com/57224583/221501581-885c7191-92fd-48cd-bc4a-6cc2912b584e.png)
 - ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/57224583/221501638-1150f6da-71fc-4873-99a1-33d0cfba2fb7.png)
+
+### Accounts Concept (Network Account)
+
+- [Networking Account](https://docs.aws.amazon.com/managedservices/latest/userguide/networking-account.html)
+
+  - ![MicrosoftTeams-image](https://user-images.githubusercontent.com/57224583/222044821-3c387efc-1c75-4378-82d2-673379188e2e.png)
+  - ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/57224583/222045329-52d9c4f7-308f-43ea-93f3-c6e613c1abe3.png)
